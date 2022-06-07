@@ -8,6 +8,7 @@
     <properties>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
+     <sonar.host.url> http://44.202.219.16:9000/ </sonar.host.url>
     </properties>
   <name>WebAppCal Maven Webapp</name>
   <url>http://maven.apache.org</url>
